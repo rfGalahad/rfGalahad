@@ -3,7 +3,7 @@
 `Junior Full Stack Web Developer`
 
 I’ve worked with technologies like ReactJS, NodeJS, and MySQL. I’m a fast learner and passionate about coding. 
-One thing I enjoy is debugging—I find satisfaction in solving problems and making things work. It challenges me and helps me grow as a developer. 
+One thing I enjoy is debugging. I find satisfaction in solving problems and making things work. It challenges me and helps me grow as a developer. 
 If you want to see my projects, visit my [Portfolio](https://portfolio-ten-omega-89.vercel.app).
 
 ### Connect with me:
